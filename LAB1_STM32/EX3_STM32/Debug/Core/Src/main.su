@@ -1,0 +1,8 @@
+main.c:99:8:RED1andGREEN2	16	static
+main.c:64:5:main	24	static
+main.c:107:8:RED1andYELLOW2	16	static
+main.c:115:8:GREEN1andRED2	16	static
+main.c:123:8:YELLOW1andRED2	16	static
+main.c:172:6:SystemClock_Config	72	static
+main.c:208:13:MX_GPIO_Init	32	static
+main.c:238:6:Error_Handler	4	static,ignoring_inline_asm
